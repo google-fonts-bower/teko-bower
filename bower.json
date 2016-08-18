@@ -1,0 +1,17 @@
+{
+    "name": "teko-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/teko-bower.git"
+    },
+    "description": "Teko font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
